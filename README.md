@@ -3,7 +3,7 @@
 Here you'll find all of my current
 ## 📖 About me
 * While currently working in Technical Support, I'm looking to jump into the world of software development.
-* I'm in the process of learning Software Development in Python through a hyperiondev bootcamp.
+* I'm in the process of learning Software Development in Python through a CoGrammar and HyperionDev bootcamp.
 * I'm also familiarising myself with C++ on the side.
 * I'm a musician! 🎸 I love making and enjoying all kinds of music.
 
